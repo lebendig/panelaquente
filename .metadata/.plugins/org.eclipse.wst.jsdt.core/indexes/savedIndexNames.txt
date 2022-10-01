@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+C:\Users\Pai\git\panela-quente-workspace\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2474474348.index
